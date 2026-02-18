@@ -153,6 +153,7 @@ Este material é ideal para:
 Este estudo foi baseado em:
 
 - Full Cycle 3.0
+  https://fullcycle.com.br/
 
 - Documentação oficial do Docker  
   https://docs.docker.com/
