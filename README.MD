@@ -148,6 +148,33 @@ Este material é ideal para:
 
 ---
 
+# 📚 Referências
+
+Este estudo foi baseado em:
+
+- Full Cycle 3.0
+
+- Documentação oficial do Docker  
+  https://docs.docker.com/
+
+- Docker Hub  
+  https://hub.docker.com/
+
+- Documentação oficial do Docker Compose  
+  https://docs.docker.com/compose/
+
+- Documentação oficial do Nginx  
+  https://nginx.org/en/docs/
+
+- Documentação oficial do PHP  
+  https://www.php.net/docs.php
+
+- Documentação oficial do Node.js  
+  https://nodejs.org/en/docs/
+
+- Documentação oficial do MySQL  
+  https://dev.mysql.com/doc/
+
 # 🤝 Contribuições
 
 Se você encontrar:
